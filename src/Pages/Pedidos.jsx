@@ -174,6 +174,3 @@ const PedidosComponent = () => {
 
 export default PedidosComponent;
 
-{
-  /* */
-}
