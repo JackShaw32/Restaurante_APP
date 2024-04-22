@@ -1,7 +1,7 @@
 
 # Proyecto MERN 
 
-# MENU RESTAURANTE
+# APP MENU RESTAURANTE
 
 # Autores
 
