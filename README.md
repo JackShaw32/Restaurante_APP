@@ -1,70 +1,83 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Proyecto MERN 
 
-## Available Scripts
+# MENU RESTAURANTE
 
-In the project directory, you can run:
+# Autores
 
-### `npm start`
+https://github.com/JackShaw32
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+https://github.com/chaski123
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Objetivo
 
-### `npm test`
+Desarrollar una aplicación para que los clientes elijan entre distintos menús del
+restaurante y puedan hacer su pedido.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Secciones
 
-### `npm run build`
+# Login
+Pantalla de login donde el usuario puede autenticarse o darse de alta a través de un
+enlace al formulario de registro.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Registro
+Puede ser una página o un modal donde el usuario nuevo puede darse de alta.
+Los datos indispensables para permitir el ingreso deben ser un email y contraseña,
+pudiendo agregar los que se deseen.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Home
+Pantalla principal con información del restaurante y los menús disponibles para que
+los usuarios puedan seleccionar el que deseen.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Pedidos
+Una página que contendrá los menús seleccionados por el usuario y su costo total.
+Deberá tener un botón de hacer pedido. Al hacer click el pedido se guardará en la BD
+como pendiente.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Página admin (ABM)
+El usuario administrador debe poder acceder a una página donde se muestran los
+listados de usuarios, menús y pedidos y además pueda realizar las siguientes
+operaciones:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Usuarios
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  Dar de alta Usuarios
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  Inactivar usuarios
 
-## Learn More
+# Menús (productos)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  Dar de alta menús
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  Modificar Menús
 
-### Code Splitting
+# Eliminar Menús
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+  Pedidos
 
-### Analyzing the Bundle Size
+  Modificar pedidos de pendientes a Realizados
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+# Usado por:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+  Este Proyecto es usado por la siguiente empresa:
 
-### Advanced Configuration
+    devschool_academia
+    https://devschool.com.ar/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# Comentarios
 
-### Deployment
+Proyecto MERN 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+mongodb
 
-### `npm run build` fails to minify
+Express
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+React
+
+node.js
+
+# Link Backend 
+
+https://github.com/JackShaw32/RestauranteAPP__Back.git
